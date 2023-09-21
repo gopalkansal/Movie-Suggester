@@ -1,2 +1,2 @@
-#Movie_Suggester
+#KNOW-YOUR-MOVIE
 Provides overview and rating.
